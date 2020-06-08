@@ -1,11 +1,11 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
+title: TKVTV.
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+baseurl: "https://takagotch.github.io/page57/" #important: start with /
+url: "https://takagotch.github.io/page57/"
 
 # Build settings
 markdown: kramdown
@@ -59,7 +59,7 @@ tel: +34 8493-4893
 
 # Members information. Shown on About page.
 members:
-  - name: Mark Webber
+  - name: Takashi Yoshioka
     position: CEO
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team01.jpg
