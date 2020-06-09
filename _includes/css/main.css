@@ -13,6 +13,8 @@
 @import url("prettyPhoto.css") screen;
 @import url("hoverex-all.css") screen;
 
+
+
 /*	################################################################
 	1. GENERAL STRUCTURES
 ################################################################# */
@@ -222,8 +224,8 @@ a:focus {
 #headerwrap {
 	background-color: {{ site.colors.primary }};
 	min-height: 0px;
-	padding-top: 100px;
-	padding-bottom: 50px;
+	padding-top: 50px;
+	padding-bottom: 25px;
 	text-align: center;
 }
 
