@@ -1,4 +1,4 @@
-Solid. A Bootstrap theme for Jekyll.
+Super technology crypto tkvtv.
 ============
 ![Screenshot](https://takagotch.github.io/page57/assets/img/hs.jpg)
 
