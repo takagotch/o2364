@@ -16,10 +16,10 @@ colors:  #in hex code if not noted else
   primary: "#ffad33" #"#FFF633" 
   primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
   secondary: "#FFF633" #"#33004D"
-  link: "#428bca"
-  link_hover: "#01b2fe"
+  link: "#FFC672"
+  link_hover: "#FFAC31"
   footer_heading: "#ffffff"
-  footer_content: "#bfc9d3"
+  footer_content: "#FFCF8A"
 
 # Making projects separate from posts
 collections:
