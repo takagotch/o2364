@@ -93,6 +93,8 @@ a:focus {
 	text-align: center
 }
 
+
+
 /*	################################################################
 	BOOTSTRAP MODIFICATIONS & TWEAKS
 ################################################################# */
@@ -211,6 +213,8 @@ a:focus {
 	border-bottom: 2px solid #ffffff;
 	margin-bottom: 25px;
 }
+
+
 /*	################################################################
 	SITE WRAPS
 ################################################################# */
@@ -236,6 +240,8 @@ a:focus {
 #headerwrap .img-responsive {
 	margin: 0 auto;
 }
+
+
 
 /* Services Wrap */
 #service {
@@ -297,6 +303,8 @@ a:focus {
 	text-align:center;
 }
 
+
+
 /* Testimonials Wrap */
 #twrapback {
     background-color: {{ site.colors.primary }};
@@ -342,6 +350,8 @@ a:focus {
 	line-height: 30px;
 }
 
+
+
 /* clients logo */
 #cwrap {
 	background: #f7f7f7;
@@ -378,6 +388,8 @@ a:focus {
 #footerwrap i:hover {
 	color: {{ site.colors.primary }}
 }
+
+
 
 /*	################################################################
 	PAGE CONFIGURATIONS
@@ -439,6 +451,8 @@ csmall {
 	background: {{ site.colors.primary }};
 }
 
+
+
 /* Contact Page */
 #contactwrap {
 	background: url(../img/contact.jpg) no-repeat center top;
@@ -460,6 +474,8 @@ csmall {
     -o-background-size: cover;
     background-size: cover;
 }
+
+
 
 /* Blog Page */
 .popular-posts { 
